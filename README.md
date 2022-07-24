@@ -1,4 +1,6 @@
-Answer the following questions based on the African food production dataset provided by the FAO website.
+Dataset source: African food production dataset (FAO website, Food and Agricultural Organisation of the United Nations).
+
+Project Objectives: Solving the following questions based on the dataset.
 
 #1. What is the total sum of the Animal fats produced in 2014 and 2017 respectively.
 
